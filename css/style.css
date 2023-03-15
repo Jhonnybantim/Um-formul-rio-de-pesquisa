@@ -77,21 +77,27 @@ main{
 	cursor: pointer;		
 }
 
-@media (max-width:500px) { 
+@media (max-width:600px){ 
 
-	.cadastro-int{
-		margin-left: -240;
-		display: flex;
-		justify-content: space-between;
-		width: 100%;
-	}
-
-
-
-
-
-
-
-
+.cadastro-int{
+	margin-left: -240;
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+    }
 
 }
+@media( max-width:910px){
+body{ 
+	background-color: black;
+		}
+}
+
+
+
+
+
+
+
+
+
