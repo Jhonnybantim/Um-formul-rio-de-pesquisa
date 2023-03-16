@@ -121,8 +121,8 @@ main {
 		width: 100%;
 	}
 }
-/*Versão tablete8
-@media (max-width:750px){
+/*Versão tablete8*/
+@media (max-width:780px){
 	header{
 		width: 100%;
 	}
@@ -131,10 +131,15 @@ main {
 		width: 100%;
 	}
 	main{
-		width: 940px;
-	}
+		width: 660px;
+			}
 	.cadastro-int{
-	} */
+	  flex-direction: column;
+      display: flex;
+	  justify-content: space-between;
+	  width: 70%;
+		
+	} 
 
 
 
