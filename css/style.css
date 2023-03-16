@@ -110,7 +110,7 @@ main {
 	}
 
 	.cadastro input {
-		width: 265px;
+		width: 275px;
 	}
 
 	.cadastro-int {
@@ -122,7 +122,7 @@ main {
 	}
 }
 /*Versão tablete8
-@media (max-width:940px){
+@media (max-width:750px){
 	header{
 		width: 100%;
 	}
