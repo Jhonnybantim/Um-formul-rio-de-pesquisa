@@ -89,7 +89,7 @@ main {
 }
 
 /*Versão para celular*/
-@media (max-width:600px) {
+@media (max-width:750px) {
 	header {
 		width: 100%;
 	}
@@ -122,7 +122,7 @@ main {
 	}
 }
 /*Versão tablete8*/
-@media (max-width:780px){
+@media (max-width:400px){
 	header{
 		width: 100%;
 	}
@@ -131,13 +131,13 @@ main {
 		width: 100%;
 	}
 	main{
-		width: 508px;
+		width: 400px;
 			}
 	.cadastro-int{
 	  flex-direction: column;
       display: flex;
 	  justify-content: space-between;
-	  width: 70%;
+	  width: 100%;
 		
 	} 
 
