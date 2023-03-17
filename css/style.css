@@ -36,6 +36,7 @@ main {
 	font-weight: bold;
 	font-style: italic;
 	margin-bottom: 75px;
+	
 }
 
 .cadastro {
@@ -92,14 +93,6 @@ main {
 	font-weight: bold;
 	font-style: italic;
 	cursor: pointer;
-}
-
-@media (max-width:800px) {
-	.cadastro-int{
-		width: 101%;
-	}
-
-
 }
 /*Versão para celular*/
 @media (max-width:750px) {
